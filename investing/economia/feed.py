@@ -142,9 +142,6 @@ def main():
                     os.makedirs("./images/")
                 # Set filename index and ext
                 filename = f"./images/{indexXml}.{ext}"
-            else:
-                filename = "./assets/placeholder.png"
-                logImage = filename
             path = doc.createElement("linkfoto")
             path.appendChild(doc.createTextNode(filename))
             # Close item #
