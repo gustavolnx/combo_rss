@@ -21,7 +21,7 @@ winget install --id Git.Git -e --source winget
 ### Clonar repositório através do Git Bash
 
 ```
-git clone https://github.com/lucasgiannone/combo_rss.git
+git clone https://github.com/gustavolnx/combo_rss
 ```
 
 > Token para autenticar na janelinha do GitHub
